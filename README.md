@@ -9,6 +9,6 @@
 <a href="https://www.instagram.com/fabiosaraseli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/fabiosaraseli/" height="30" width="40" /></a>
 </p>
 
-![Fabio's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fabiooosara&theme=github-compact&hide_border=true&hide_title=true&days=60)
+![Fabio's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Fabio-Saraseli&theme=github-compact&hide_border=true&hide_title=true&days=60)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabio012119&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabio-Saraseli&layout=compact&theme=dark)
