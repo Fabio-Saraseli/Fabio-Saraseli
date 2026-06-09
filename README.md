@@ -10,5 +10,3 @@
 </p>
 
 ![Fabio's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Fabio-Saraseli&theme=github-compact&hide_border=true&hide_title=true&days=60)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabio-Saraseli&layout=compact&theme=dark)
