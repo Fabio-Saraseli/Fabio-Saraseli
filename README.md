@@ -8,4 +8,8 @@
 <a href="https://www.linkedin.com/in/fabio-saraseli-0b31651a4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fabio-saraseli-0b31651a4/" height="30" width="40" /></a>
 </p>
 
-![Fabio's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Fabio-Saraseli&theme=github-compact&hide_border=true&hide_title=true&days=60)
+## Most Used Languages
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiooosara&layout=compact&langs_count=8&theme=transparent&hide_border=true" />
+</p>
