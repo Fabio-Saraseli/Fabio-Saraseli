@@ -24,7 +24,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fabio-Saraseli/Fabio-Saraseli/output/github-contribution-grid-snake.svg" />
   <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Fabio-Saraseli/Fabio-Saraseli/output/github-contribution-grid-snake.svg" />
 </picture>
-
-## GitLab Activity
-
-[![GitLab contribution activity](./assets/gitlab-contributions.png)](https://gitlab.com/F.Saraseli)
